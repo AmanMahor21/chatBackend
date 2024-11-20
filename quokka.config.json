@@ -1,0 +1,6 @@
+{
+    "babel": true,
+    "babelOptions": {
+      "presets": ["@babel/preset-env"]
+    }
+  }
